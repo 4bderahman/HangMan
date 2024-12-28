@@ -1,7 +1,0 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
-
-exports[`New Game should render the component 1`] = `
-<styled.button>
-  Another one?
-</styled.button>
-`;
