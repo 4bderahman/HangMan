@@ -1,28 +1,21 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+# 🎬 Movie Hangman Game
 
-API: [The Movie Database](https://www.themoviedb.org/documentation/api)
+A modern take on the classic Hangman game, powered by The Movie Database (TMDB) API. Test your movie knowledge by guessing film titles letter by letter!
 
-Author: Tünde Szirák
+## ✨ Features
 
-License:
-The MIT License (MIT)
+- 🎬 **Dynamic Content**: Fresh movie titles from TMDB's vast database
+- ⌨️ **Interactive UI**: User-friendly keyboard interface
+- 📱 **Responsive Design**: Play seamlessly on any device
+- 🏆 **Score Tracking**: Monitor your gaming progress
+- 🎯 **Visual Feedback**: Engaging hangman display
 
-Copyright (c) 2017 Tünde Szirák
+## 🚀 Getting Started
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+### Prerequisites
 
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
+To run this game, make sure you have the following installed:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
+- **Node.js** (v14.0.0 or higher)
+- **npm** (v6.0.0 or higher)
+- **TMDB API key** (API: [The Movie Database](https://www.themoviedb.org/documentation/api))
